@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2022-nabiullin-azat.iml" filepath="$PROJECT_DIR$/.idea/modules/2022-nabiullin-azat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/2022-nabiullin-azat.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/2022-nabiullin-azat.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/2022-nabiullin-azat.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/2022-nabiullin-azat.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/2022-nabiullin-azat.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/2022-nabiullin-azat.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/2022-nabiullin-azat.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/2022-nabiullin-azat.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>

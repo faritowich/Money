@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">2022-nabiullin-azat</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_date_hint">Enter date</string>
+    <string name="gbp">GBP</string>
+    <string name="exchange_rate_placeholder">59.22 ₽</string>
+    <string name="no_currency_data_for_this_day">No currency data for this day:(</string>
+</resources>

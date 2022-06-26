@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Widget.Currency.Name" parent="Widget.MaterialComponents.TextView">
+        <item name="android:textSize">@dimen/text_size_currency_name</item>
+        <item name="android:textColor">@color/blue</item>
+        <item name="android:fontFamily">@font/sf_pro_display_heavy</item>
+    </style>
+
+    <style name="Widget.Currency.Value" parent="Widget.MaterialComponents.TextView">
+        <item name="android:textSize">@dimen/text_size_exchange_rate</item>
+        <item name="android:textColor">@color/grey</item>
+        <item name="android:fontFamily">@font/sf_pro_display_regular</item>
+    </style>
+
+    <style name="DatePickerDialogTheme" parent="android:Theme.Material.Light.Dialog">
+        <item name="android:colorAccent">@color/blue</item>
+        <item name="android:headerBackground">@color/blue</item>
+        <item name="buttonBarPositiveButtonStyle">@style/TextButton</item>
+        <item name="buttonBarNegativeButtonStyle">@style/TextButton</item>
+    </style>
+
+    <style name="TextButton" parent="Widget.MaterialComponents.Button.TextButton.Dialog">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:backgroundTint">@color/blue</item>
+        <item name="backgroundTint">@color/blue</item>
+    </style>
+
+    <style name="Widget.Currency.Detail.Name" parent="Widget.MaterialComponents.TextView">
+        <item name="android:textSize">@dimen/text_size_detail_currency_name</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+
+    <style name="Widget.Currency.Detail.ExRate" parent="Widget.MaterialComponents.TextView">
+        <item name="android:textSize">@dimen/text_size_detail_exchange_rate</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:fontFamily">sans-serif-black</item>
+    </style>
+
+</resources>
